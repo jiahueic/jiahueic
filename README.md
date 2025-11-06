@@ -10,6 +10,7 @@
 | [LangChain Tute](https://github.com/jiahueic/langchain-tute.git) | LangChain basics with prompt templates. | LangChain, HuggingFace, PyTorch |
 | [LangGraph Tute](https://github.com/jiahueic/langgraph-tute.git) | LangGraph multi-agent chain using Ollama. | LangGraph, Ollama |
 | [GPT Course](https://github.com/jiahueic/gpt-course.git) | Underlying Transformer architecture and training process. | PyTorch |
+| [MCP Server](https://github.com/jiahueic/MCPServerTute.git) | Custom notes MCP server which connects to Claude Desktop. | fast-mcp, Claude Desktop, starlette | 
 
 
 
