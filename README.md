@@ -13,6 +13,7 @@
 | [GPT Course](https://github.com/jiahueic/gpt-course.git)                  | Deep dive into Transformer architecture and training process.                               | PyTorch                                         |
 | [MCP Server](https://github.com/jiahueic/MCPServerTute.git)               | Custom notes MCP server integrated with Claude Desktop.                                     | fast-mcp, Claude Desktop, Starlette             |
 | [Applied ML](https://github.com/jiahueic/applied-ml.git)               | A comprehensive ML pipeline and real-time forecasting engine featuring XGBoost-based supervised learning, automated feature engineering, and time-series analysis integrated with Kafka and feature stores for high-frequency, near-time processing.                                   | Apache Kafka, statsmodel (ARIMA, SARIMA, Prophet modelling), sklearn/xgboost             |
+| [LLM Evaludation](https://github.com/jiahueic/llm-eval.git)               | Provides a structured framework of metrics, case studies, and emerging trends to systematically assess model performance, fairness, explainability, and scalability across diverse tasks.                  | N/A             |
 </details>
 
 ---
