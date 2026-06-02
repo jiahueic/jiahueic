@@ -26,6 +26,11 @@
 | [Full Stack CBDC](https://github.com/jiahueic/cbdc-fullstack.git) | Primary market system governing the full lifecycle of Central Bank Digital Currency and Government Bonds. | Solidity, FireFly Middleware, React |
 | [Blockchain Theory](https://github.com/jiahueic/blockchain.git)   | BNM-recommended LinkedIn Learning path covering core blockchain theory.                                   | N/A                                 |
 
+### Personal Projects
+| **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Bursa Brain](https://github.com/jiahueic/bursa-brain.git) | Portfolio Exit Intelligence Engine. | LangGraph, FastAPI, Streamlit, Neo4j, Postgres |
+
 Repository for reference at work:
 - https://github.com/jiahueic/nextjs-tute
 - https://github.com/jiahueic/terraform
