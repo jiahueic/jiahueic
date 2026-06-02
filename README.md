@@ -29,8 +29,9 @@
 ### Personal Projects
 | **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [Bursa Brain](https://github.com/jiahueic/bursa-brain.git) | Portfolio Exit Intelligence Engine. | LangGraph, FastAPI, Streamlit, Neo4j, Postgres |
-
+| [Bursa Brain](https://github.com/jiahueic/bursa-brain.git) | Portfolio Exit Intelligence Engine. | LangGraph, FastAPI, Streamlit, Neo4j, Postgres                             |
+| [JuristiQ](https://github.com/jiahueic/JuristiQ.git)   | Fine-tuning for smart legal parsing                                                                                  | HuggingFace, PyTorch    
+                   
 Repository for reference at work:
 - https://github.com/jiahueic/nextjs-tute
 - https://github.com/jiahueic/terraform
