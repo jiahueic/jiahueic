@@ -30,7 +30,7 @@
 | **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | [Bursa Brain](https://github.com/jiahueic/bursa-brain.git) | Portfolio Exit Intelligence Engine. | LangGraph, FastAPI, Streamlit, Neo4j, Postgres                             |
-| [JuristiQ](https://github.com/jiahueic/JuristiQ.git)   | Fine-tuning for smart legal parsing                                                                                  | HuggingFace, PyTorch    
+| [JuristiQ](https://github.com/jiahueic/JuristiQ.git)   | Fine-tuning for transforming noisy receipt OCR into validated, structured e-invoice data for Malaysia and Singapore                                                                                  | HuggingFace, PyTorch    
                    
 Repository for reference at work:
 - https://github.com/jiahueic/nextjs-tute
