@@ -30,7 +30,8 @@
 | **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | [Bursa Brain](https://github.com/jiahueic/bursa-brain.git) | Portfolio Exit Intelligence Engine. | LangGraph, FastAPI, Streamlit, Neo4j, Postgres                             |
-| [JuristiQ](https://github.com/jiahueic/JuristiQ.git)   | Fine-tuning for transforming noisy receipt OCR into validated, structured e-invoice data for Malaysia and Singapore                                                                                  | HuggingFace, PyTorch    
+| [JuristiQ](https://github.com/jiahueic/JuristiQ.git)   | Fine-tuning for transforming noisy receipt OCR into validated, structured e-invoice data for Malaysia and Singapore                                                                                  | HuggingFace, PyTorch
+| [FloodGuard](https://github.com/jiahueic/FloodGuard.git) | A governed analytics and AI platform that combines official Malaysian flood-loss and insurance data with Power BI and Codex to deliver evidence-based resilience insights | Next.js + TypeScript + Tailwind/shadcn + FastAPI + Python + LangChain/LangGraph + Codex GPT-5.6 Luna + PostgreSQL + Power BI Service/DAX + MSAL/Entra ID + Docker 
                    
 Repository for reference at work:
 - https://github.com/jiahueic/nextjs-tute
