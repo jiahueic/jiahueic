@@ -26,6 +26,12 @@
 | [Full Stack CBDC](https://github.com/jiahueic/cbdc-fullstack.git) | Primary market system governing the full lifecycle of Central Bank Digital Currency and Government Bonds. | Solidity, FireFly Middleware, React |
 | [Blockchain Theory](https://github.com/jiahueic/blockchain.git)   | BNM-recommended LinkedIn Learning path covering core blockchain theory.                                   | N/A                                 |
 
+### Power Apps
+| **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [Power BI](https://github.com/jiahueic/powerbi-notes.git) | Notes on Semantic Model, Report, Dashboard and DAX syntax. | N/A | 
+| [Power Automate](https://github.com/jiahueic/powerautomate.git)   | Notes on Power Automate concepts.                                   | N/A   
+
 ### Personal Projects
 | **Repository**                                                    | **Description**                                                                                           | **Tech Stack**                      |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
